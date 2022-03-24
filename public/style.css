@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+
+}
+
+input:focus,button:focus{
+    outline: 0;
+}
+body{
+    font-family: 'Poppins';
+}
+h2{
+    font-size: 20px;
+    padding: 10px 15px;
+    color: aqua;
+    background-color: rgb(255, 220, 174);
+}
+#chat-wrap{
+    max-width: 700px;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+
+    background-color: blanchedalmond;
+}
+
+#chat-window{
+    height: 400px;
+    overflow-y: auto;
+    background-color: rgb(202, 143, 100);
+}
+
+#output p{
+    font-size: 10px;
+    padding: 10px;
+}
+
+#output p:nth-child(even){
+    background-color: cadetblue;
+}
+
+#feedback p{
+    font-size: 10px;
+    padding: 10px;
+}
+
+#output strong{
+    color: darkcyan;
+}
+
+input{
+    font-family: 'Poppins';
+    padding: 10px 20px;
+    border: 0px;
+    border-top: 1px solid #ccc;
+    display: block;
+    width: 700px;
+    font-size: 15px;
+}
+
+/* #submitBtn{
+    font-family: 'Poppins';
+    background-color: blanchedalmond;
+    color: rgb(48, 150, 240);
+    border: 1px ;
+    border-radius: 2 2 8px 8px;
+    width: 700;
+    padding: 2px 2px;
+    font-size: 15px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
