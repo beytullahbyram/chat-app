@@ -1,4 +1,4 @@
-# Nodejs Chat Application
+**Nodejs Chat Simple Application**
 ---
 ### SETUP
 ```sh
