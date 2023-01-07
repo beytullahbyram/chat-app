@@ -1,3 +1,11 @@
 # Nodejs Chat Application
-expressjs-nodejs-socket.io
-
+---
+### SETUP
+```sh
+npm install
+```
+### START
+```sh
+node app.js
+```
+---
